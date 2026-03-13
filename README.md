@@ -1,4 +1,4 @@
-*NOTE: "Due to the execess size of the apk file the drive link with apk file has been provided"
+*NOTE: "the drive link with apk file has been provided"
 # OppTrack
 
 ## Overview
@@ -107,4 +107,4 @@ Developed as a student innovation project to simplify opportunity tracking in ac
 
 
 ## Here is the apk file of the application 
-https://drive.google.com/file/d/1uygpii-DpRy0_iBZKWrhDGPDV1KPb3oS/view?usp=sharing
+https://drive.google.com/file/d/1LR9hk0pLnQLzz5GabYyCP_NYXdt6tTfI/view?usp=sharing
