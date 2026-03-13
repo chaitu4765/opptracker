@@ -1,0 +1,22 @@
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Large model files - DO NOT PUSH TO GITHUB (Exceeds limit)
+**/assets/gemma-3n-E2B-it-int4.litertlm
+
+# Kotlin
+.kotlin

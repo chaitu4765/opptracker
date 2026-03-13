@@ -1,0 +1,1 @@
+Placeholder for model_asset pack. Move your large model file here.
